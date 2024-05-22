@@ -1,0 +1,3 @@
+https://github.com/last-byte/PersistenceSniper
+	Powershell-модуль для Blue Team, предназначенный для поиска всех методов закрепления, которые хакер использовал на взломанной машине. 
+

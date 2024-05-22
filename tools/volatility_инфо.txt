@@ -1,0 +1,19 @@
+Volatility - это бесплатный инструмент для анализа памяти, разработанный и поддерживаемый Volatility Foundation, 
+который обычно используется аналитиками вредоносных программ и SOC-аналитиками. Volatility написана на языке Python и состоит из плагинов 
+и модулей python, разработанных как plug-and-play способ анализа дампов памяти.
+
+-f <>  imageinfo
+-f <> --profile=XXX <plug>
+    pslist
+    pstree
+    (-Q<process> or --pid ) procdump --dump-dir= 
+    cmdline
+    filescan (файлы в памяти)
+    dumpfiles -Q <какой> --dump-dir=
+    netscan (сетевые подключения)
+    bioskbd (~нажатия)
+    clipboard (буфер)
+    consoles (весь текст который был в консолях)
+    hashdump (юзер лист)(aad3...пустой пароль)()
+    iehistory (история эксплоера)
+    screenshot --dump-dir= ()
